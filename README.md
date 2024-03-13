@@ -2,7 +2,7 @@
 
 Welcome to my data science portfolio! This repository contains a collection of projects that demonstrate my skills in data analysis, machine learning, and data visualization. Each project is accompanied by detailed documentation, including problem statements, methodologies, results, and insights gained.
 
-## Projects Included:
+## Projects
 
 ### [Project 1: Predictive Modeling for Customer Churn: ](link_to_project_1)
 Building machine learning models to predict customer churn and identifying strategies to reduce churn rate.
