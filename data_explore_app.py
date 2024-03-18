@@ -20,8 +20,9 @@ if options == "Profile Report":
         # Data Display
         st.write(df)
 
-        report = df.profile_report()
-        st_profile_report(report)
+        pr = df.profile_report()
+        st_profile_report(pr)
+
         # User inputs for plot customization
         x_axis_val = st.selectbox('Select the X axis', options=df.columns)
         y_axis_val = st.selectbox('Select the Y axis', options=df.columns)
